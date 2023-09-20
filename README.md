@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Sagnick, a QAE by profession and a web developer by virtue.
+- 👋 Hi, I’m Sagnick, a QAE and a web developer by virtue.
 - 👀 I’m interested in getting into new tech and cooking.
 - 🌱 I’m currently learning data analytics.
 - 💞️ I’m looking to collaborate on web development works.
 - 📫 How to reach me:
--     website- https://thisissagnick.netlify.app
+-     website- https://sagnick.netlify.app
 -     email- iamsagnick@gmail.com
 -     mobile- 7031405265
 
