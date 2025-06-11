@@ -1,13 +1,19 @@
-- 👋 Hi, I’m Sagnick, a QAE and a web developer by virtue.
-- 👀 I’m interested in getting into new tech and cooking.
-- 🌱 I’m currently learning data analytics.
-- 💞️ I’m looking to collaborate on web development works.
-- 📫 How to reach me:
--     website- https://sagnick.netlify.app
--     email- iamsagnick@gmail.com
--     mobile- 7031405265
+# 👋 Hey there, I’m Sagnick Biswas
 
-<!---
-sagnick-solo/sagnick-solo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 I'm a **Data Engineer** with 4+ years of experience in the data space—turning raw, messy data into clean, meaningful insights.  
+🛠️ I occasionally dive into **Automation QA** and **Web Development** when the project demands or curiosity kicks in.
+
+## 💡 About Me
+- 🔍 Passionate about building **scalable data pipelines**, working with **cloud infrastructure**, and exploring **modern data tooling**
+- 🌱 Currently expanding my skills in **advanced analytics** and **workflow automation**
+- 🤝 Open to collaborations in **data engineering** and **web development**
+- 🍳 Outside of tech, I enjoy **cooking** and trying out new cuisines
+
+## 📬 Reach Me
+- 🌐 Website: [sagnick.netlify.app](https://sagnick.netlify.app)  
+- 📧 Email: [iamsagnick@gmail.com](mailto:iamsagnick@gmail.com)  
+- 📱 Mobile: +91 70314 05265
+
+---
+
+💬 Let’s build something impactful together!
